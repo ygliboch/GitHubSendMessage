@@ -1,0 +1,13 @@
+## Build generated
+.DS_Store
+build/
+DerivedData
+
+## Various settings
+
+## Pods
+Pods/*
+GitHubMessage.xcworkspace/contents.xcworkspacedata
+
+## AppCode
+.idea/
